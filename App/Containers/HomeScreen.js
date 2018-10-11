@@ -2,12 +2,16 @@ import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import { connect } from "react-redux";
 
+import { getRestaurantList } from "../Redux/ListRedux";
+
 class HomeScreen extends Component {
   constructor(props) {
     super(props);
   }
 
-  componentDidMount() {}
+  componentDidMount() {
+    this.props.getRestaurantList();
+  }
   render() {
     return (
       <View style={styles.container}>
@@ -19,13 +23,17 @@ class HomeScreen extends Component {
 }
 
 const mapStateToProps = state => {
-  // const { restaurantList } = state;
-  console.log("State in Home Screen- ", state);
-  return {};
+  const { restaurantList } = state;
+  console.log("State in Home Screen- ", restaurantList);
+  return {
+    restaurantList
+  };
 };
 
 const mapDispatchToProps = dispatch => {
-  return {};
+  return {
+    getRestaurantList: () => dispatch(getRestaurantList())
+  };
 };
 
 export default connect(
