@@ -8,7 +8,7 @@
 
 **Step 1:** git clone this repo: `git clone https://github.com/San10694/React-Native-Starter.git`
 
-**Step 2:** cd to the cloned repo:`cd React-native-Starter`
+**Step 2:** cd to the cloned repo:`cd React-Native-Starter`
 
 **Step 3:** Install the Application with `yarn` or `npm i`
 
