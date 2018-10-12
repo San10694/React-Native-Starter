@@ -2,13 +2,13 @@
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-* Standard React-native app with basic setup of redux, redux-saga, redux-persist.
+* Standard React-Native app with basic setup of redux, redux-saga, redux-persist.
 
 ## :arrow_up: How to Setup
 
-**Step 1:** git clone this repo: git clone https://github.com/San10694/React-Native-Starter.git
+**Step 1:** git clone this repo: `git clone https://github.com/San10694/React-Native-Starter.git`
 
-**Step 2:** cd to the cloned repo:cd React-native-Starter
+**Step 2:** cd to the cloned repo:`cd React-native-Starter`
 
 **Step 3:** Install the Application with `yarn` or `npm i`
 
