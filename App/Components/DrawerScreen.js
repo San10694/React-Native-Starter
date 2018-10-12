@@ -1,7 +1,12 @@
 import React, { Component } from "react";
 import { NavigationActions } from "react-navigation";
-import PropTypes from "prop-types";
-import { ScrollView, Text, View } from "react-native";
+import {
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+  TouchableOpacity
+} from "react-native";
 import { DrawerActions } from "react-navigation";
 
 class DrawerScreen extends Component {
@@ -18,15 +23,30 @@ class DrawerScreen extends Component {
       <View>
         <ScrollView>
           <View>
-            <View style={styles.menuItem}>
-              <Text onPress={this.navigateToScreen("Home")}>Home</Text>
-            </View>
-            <View style={styles.menuItem}>
-              <Text onPress={this.navigateToScreen("About")}>About</Text>
-            </View>
-            <View style={styles.menuItem}>
-              <Text onPress={this.navigateToScreen("Contact")}>Contact</Text>
-            </View>
+            <TouchableOpacity style={styles.menuItem}>
+              <Text
+                style={styles.textItem}
+                onPress={this.navigateToScreen("HomeScreen")}
+              >
+                Home
+              </Text>
+            </TouchableOpacity>
+            <TouchableOpacity style={styles.menuItem}>
+              <Text
+                style={styles.textItem}
+                onPress={this.navigateToScreen("AboutScreen")}
+              >
+                About
+              </Text>
+            </TouchableOpacity>
+            <TouchableOpacity style={styles.menuItem}>
+              <Text
+                style={styles.textItem}
+                onPress={this.navigateToScreen("ContactScreen")}
+              >
+                Contact
+              </Text>
+            </TouchableOpacity>
           </View>
         </ScrollView>
       </View>
@@ -48,5 +68,13 @@ const styles = StyleSheet.create({
     textAlign: "center",
     margin: 10
   },
-  menuItem: {}
+  menuItem: {
+    padding: 10,
+    borderWidth: 0.5,
+    borderColor: "#d6d7da"
+  },
+  textItem: {
+    fontSize: 16,
+    fontWeight: "400"
+  }
 });
