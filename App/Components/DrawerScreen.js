@@ -20,7 +20,7 @@ class DrawerScreen extends Component {
 
   render() {
     return (
-      <View>
+      <View style={styles.container}>
         <ScrollView>
           <View>
             <TouchableOpacity style={styles.menuItem}>
@@ -60,8 +60,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#F5FCFF"
+    alignItems: "center"
+    //backgroundColor: "#F5FCFF"
   },
   welcome: {
     fontSize: 20,
@@ -70,11 +70,32 @@ const styles = StyleSheet.create({
   },
   menuItem: {
     padding: 10,
-    borderWidth: 0.5,
-    borderColor: "#d6d7da"
+    borderBottomWidth: 0.5,
+    borderColor: "#d6d7da",
+    width: 300
   },
   textItem: {
     fontSize: 16,
     fontWeight: "400"
   }
 });
+
+// use native component for drawer
+// import { DrawerItems, SafeAreaView } from "react-navigation";
+
+// const CustomDrawerContentComponent = props => (
+//   <ScrollView>
+//     <SafeAreaView
+//       style={styles.container}
+//       forceInset={{ top: "always", horizontal: "never" }}
+//     >
+//       <DrawerItems {...props} />
+//     </SafeAreaView>
+//   </ScrollView>
+// );
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1
+//   }
+// });

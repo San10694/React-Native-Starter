@@ -4,9 +4,10 @@ import {
   createDrawerNavigator,
   DrawerActions
 } from "react-navigation";
-import { TouchableOpacity, Image } from "react-native";
-import Routes from "./Routes";
+import { TouchableOpacity } from "react-native";
 import DrawerScreen from "../Components/DrawerScreen";
+import { MenuIcon } from "../Components/MenuIcon";
+import Routes from "./Routes";
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
   initialRouteName: "HomeScreen",
@@ -27,24 +28,6 @@ const DrawerNavigator = createDrawerNavigator(Routes, {
     inactiveLabelStyle: {}
   }
 });
-
-const MenuIcon = ({ navigation }) => {
-  if (!navigation.state.isDrawerOpen) {
-    return (
-      <Image
-        style={{ margin: 10 }}
-        source={require("../Assets/menu-button.png")}
-      />
-    );
-  } else {
-    return (
-      <Image
-        style={{ margin: 10 }}
-        source={require("../Assets/left-arrow.png")}
-      />
-    );
-  }
-};
 
 const PrimaryNav = createStackNavigator(
   {
