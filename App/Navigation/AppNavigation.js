@@ -8,6 +8,8 @@ import { TouchableOpacity } from "react-native";
 import DrawerScreen from "../Components/DrawerScreen";
 import { MenuIcon } from "../Components/MenuIcon";
 import Routes from "./Routes";
+import Colors from '../Colors';
+
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
   initialRouteName: "HomeScreen",
@@ -32,7 +34,8 @@ const DrawerNavigator = createDrawerNavigator(Routes, {
 const PrimaryNav = createStackNavigator(
   {
     /*important: key and screen name (i.e. DrawerNavigator) should be same
-     while using the drawer navigator inside stack navigator.*/
+     w
+hile using the drawer navigator inside stack navigator.*/
     DrawerNavigator: {
       screen: DrawerNavigator
     }
@@ -50,7 +53,7 @@ const PrimaryNav = createStackNavigator(
         </TouchableOpacity>
       ),
       headerStyle: {
-        backgroundColor: "#333"
+        backgroundColor: Colors.primary
       },
       headerTintColor: "#fff",
       headerTitleStyle: {

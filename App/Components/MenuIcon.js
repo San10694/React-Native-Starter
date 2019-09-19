@@ -1,20 +1,23 @@
 import React from "react";
-import { Image } from "react-native";
+import { View } from "react-native";
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import Colors from "../Colors";
+
 
 export const MenuIcon = ({ navigation }) => {
   if (!navigation.state.isDrawerOpen) {
     return (
-      <Image
-        style={{ margin: 10 }}
-        source={require("../Assets/menu-button.png")}
-      />
+      <View style={{ margin: 10 }}>
+        <Icon name="menu" size={25} color={Colors.primary}>
+        </Icon>
+      </View>
     );
   } else {
     return (
-      <Image
-        style={{ margin: 10 }}
-        source={require("../Assets/left-arrow.png")}
-      />
+      <View style={{ margin: 10 }}>
+        <Icon name="arrow-left" size={25} color={Colors.primary}>
+        </Icon>
+      </View>
     );
   }
 };
