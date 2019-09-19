@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sandeep/Documents/React-native-Starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/sandeep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ba00c7d2309f7f9e0daea327e80f95f/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/Users/sandeeptiwari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f794f5a5bb6b72138ae909ffb010178/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

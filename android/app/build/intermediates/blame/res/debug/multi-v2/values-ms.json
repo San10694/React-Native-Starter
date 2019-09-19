@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sandeep/Documents/React-native-Starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "/Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
-                    "source": "/home/sandeep/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a37364669812e8f652ad1a6b93cf2e7/res/values-ms/values-ms.xml",
+                    "source": "/Users/sandeeptiwari/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45e633775d65bffcfc570d12546d28d1/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/sandeep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ba00c7d2309f7f9e0daea327e80f95f/res/values-ms/values-ms.xml",
+                    "source": "/Users/sandeeptiwari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f794f5a5bb6b72138ae909ffb010178/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
