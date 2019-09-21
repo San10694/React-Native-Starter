@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { TouchableOpacity, StyleSheet, Text, ScrollView, Dimensions, View, Image } from "react-native";
 import { connect } from "react-redux";
-
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { getRestaurantList } from "../Redux/ListRedux";
 import images from "../Images";
 import Colors from '../Colors';
@@ -9,54 +9,84 @@ const { width, height } = Dimensions.get('window');
 
 
 const bannerData = [
-  { key: 1, title: 'Harry Poter part -1', price: 50, image: images.banner1 },
+  { key: 1, title: 'Harry Poter part -1', image: images.banner1 },
   { key: 2, title: 'Harry Poter part -2', price: 50, image: images.banner1 },
   { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner1 },
   { key: 4, title: 'Harry Poter part -4', price: 50, image: images.banner1 }
 ]
 
+const catData = [
+  { key: 1, title: 'Mera Aashiyaana', icon: 'home' },
+  { key: 2, title: 'Support', icon: 'help-box' },
+  { key: 3, title: 'Smart Key', icon: 'cellphone-key' },
+  { key: 4, title: 'Climate', icon: 'weather-partlycloudy' },
+  { key: 4, title: 'Services', icon: 'headset' },
+  { key: 4, title: 'Security', icon: 'security' },
+]
+
 class HomeScreen extends Component {
+
+  static navigationOptions = {
+
+  }
+
+
   constructor(props) {
     super(props);
   }
 
   componentDidMount() {
-    this.props.getRestaurantList();
+    // this.props.getRestaurantList();
   }
 
 
   render() {
     return (
       <View style={styles.container}>
+        <View>
+          <ScrollView horizontal={true} showsHorizontalScrollIndicator={false}
+            style={{}} containerStyle={{}}>
+            {
+              bannerData.map((item, index) => {
+                return (
+                  <View style={[styles.cardSectionContainer]} >
+                    <View style={styles.imgContainer}>
+                      <Image source={item.image} style={styles.bookImg} resizeMode='stretch' />
+                    </View>
 
-        <ScrollView horizontal={true} showsHorizontalScrollIndicator={false}>
-          {
-            bannerData.map((item, index) => {
-              return (
-                <View style={[styles.cardSectionContainer]} >
-                  <View style={styles.imgContainer}>
-                    <Image source={item.image} style={styles.bookImg} resizeMode='stretch' />
-                  </View>
+                  </View>)
+              })
+            }
+          </ScrollView>
 
-                </View>)
-            })
-          }
-        </ScrollView>
-        {/* <Text style={styles.welcome}>Welcome to Home!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
-        <TouchableOpacity
-          style={{
-            backgroundColor: "#b5b9bf",
-            height: 35,
-            width: 200,
-            justifyContent: "center",
-            alignItems: "center",
-            borderRadius: 5
-          }}
-          onPress={() => this.props.navigation.navigate("ProfileScreen")}
-        >
-          <Text>Navigate to Profile</Text>
-        </TouchableOpacity> */}
+          <View style={{
+            marginTop: 20,
+            paddingHorizontal: 15,
+            flexDirection: 'row',
+            justifyContent: 'flex-start',
+            flexWrap: 'wrap'
+          }}>
+            {
+              catData.map((item, index) => {
+                return (
+                  <TouchableOpacity onPress={() => this.props.navigation.navigate("ProfileScreen")}
+                    style={{
+                      justifyContent: 'center',
+                      alignItems: 'center', elevation: 2,
+                      borderRadius: 5, width: width * 0.28,
+                      margin: 5,
+                    }}>
+                    <View >
+                      <Icon name={item.icon} size={40} color={Colors.primary} style={{ marginTop: 10 }}> </Icon>
+                    </View>
+                    <Text style={styles.welcome}>{item.title}</Text>
+                  </TouchableOpacity>
+                )
+              })
+            }
+
+          </View>
+        </View>
       </View>
     );
   }
@@ -64,7 +94,7 @@ class HomeScreen extends Component {
 
 const mapStateToProps = state => {
   const { restaurantList } = state;
-  console.log("State in Home Screen- ", restaurantList);
+  // console.log("State in Home Screen- ", restaurantList);
   return {
     restaurantList
   };
@@ -84,14 +114,14 @@ export default connect(
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#F5FCFF"
+    backgroundColor: Colors.lightGrey,
+
   },
   welcome: {
-    fontSize: 20,
-    textAlign: "center",
-    margin: 10
+    fontSize: 12,
+    paddingHorizontal: 10,
+    paddingBottom: 20,
+    color: Colors.black
   },
   instructions: {
     textAlign: "center",

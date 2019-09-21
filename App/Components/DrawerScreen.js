@@ -8,6 +8,7 @@ import {
   TouchableOpacity
 } from "react-native";
 import { DrawerActions } from "react-navigation";
+import Colors from "../Colors";
 
 class DrawerScreen extends Component {
   navigateToScreen = route => () => {
@@ -28,7 +29,7 @@ class DrawerScreen extends Component {
                 style={styles.textItem}
                 onPress={this.navigateToScreen("HomeScreen")}
               >
-                Home
+                HOME
               </Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.menuItem}>
@@ -36,7 +37,7 @@ class DrawerScreen extends Component {
                 style={styles.textItem}
                 onPress={this.navigateToScreen("AboutScreen")}
               >
-                About
+                ABOUT
               </Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.menuItem}>
@@ -44,7 +45,7 @@ class DrawerScreen extends Component {
                 style={styles.textItem}
                 onPress={this.navigateToScreen("ContactScreen")}
               >
-                Contact
+                CONTACT
               </Text>
             </TouchableOpacity>
           </View>
@@ -60,7 +61,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: "center",
-    alignItems: "center"
+    alignItems: "center",
+    backgroundColor: Colors.lightGrey
     //backgroundColor: "#F5FCFF"
   },
   welcome: {
@@ -70,14 +72,20 @@ const styles = StyleSheet.create({
   },
   menuItem: {
     padding: 10,
+    paddingLeft: 20,
     borderBottomWidth: 0.5,
     borderColor: "#d6d7da",
-    width: 300
+    width: 300,
   },
+
+
   textItem: {
-    fontSize: 16,
-    fontWeight: "400"
+    fontSize: 15,
+    fontWeight: "400",
+    color: Colors.black,
+    fontFamily: "roboto.medium",
   }
+
 });
 
 // use native component for drawer

@@ -42,7 +42,7 @@ hile using the drawer navigator inside stack navigator.*/
   },
   {
     navigationOptions: ({ navigation }) => ({
-      title: "Tech Home", // Title to appear in status bar
+      // title: "Tech Home", // Title to appear in status bar
       headerLeft: (
         <TouchableOpacity
           onPress={() => {
@@ -53,7 +53,8 @@ hile using the drawer navigator inside stack navigator.*/
         </TouchableOpacity>
       ),
       headerStyle: {
-        backgroundColor: Colors.lightGrey
+        backgroundColor: Colors.lightGrey,
+        elevation: navigation.state.routeName === 'DrawerNavigator' ? 0 : 1,
       },
       headerTintColor: Colors.primary,
       headerTitleStyle: {
