@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
+import Colors from '../Colors';
 
 export default class ProfileScreen extends Component {
   static navigationOptions = {};
@@ -18,7 +19,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#F5FCFF"
+    backgroundColor: Colors.lightGrey
   },
   welcome: {
     fontSize: 20,

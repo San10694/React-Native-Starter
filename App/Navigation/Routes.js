@@ -12,14 +12,7 @@ export default {
       title: "Home Screen"
     }
   },
-  ProfileScreen: {
-    name: "ProfileScreen",
-    description: "ProfileScreen",
-    screen: ProfileScreen,
-    navigationOptions: {
-      title: "Profile Screen"
-    }
-  },
+
   AboutScreen: {
     name: "AboutScreen",
     description: "AboutScreen",

@@ -9,9 +9,9 @@ const { width, height } = Dimensions.get('window');
 
 
 const bannerData = [
-  { key: 1, title: 'Harry Poter part -1', image: images.banner1 },
+  { key: 1, title: 'Harry Poter part -1', image: images.banner2 },
   { key: 2, title: 'Harry Poter part -2', price: 50, image: images.banner1 },
-  { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner1 },
+  { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner2 },
   { key: 4, title: 'Harry Poter part -4', price: 50, image: images.banner1 }
 ]
 
@@ -119,14 +119,11 @@ const styles = StyleSheet.create({
   },
   welcome: {
     fontSize: 12,
+    fontFamily: "roboto.medium",
     paddingHorizontal: 10,
     paddingBottom: 20,
+    paddingTop: 5,
     color: Colors.black
-  },
-  instructions: {
-    textAlign: "center",
-    color: "#333333",
-    marginBottom: 5
   },
   cardSectionContainer: {
     backgroundColor: Colors.background,

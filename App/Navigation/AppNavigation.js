@@ -9,6 +9,7 @@ import DrawerScreen from "../Components/DrawerScreen";
 import { MenuIcon } from "../Components/MenuIcon";
 import Routes from "./Routes";
 import Colors from '../Colors';
+import ProfileScreen from "../Containers/ProfileScreen";
 
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
@@ -38,7 +39,16 @@ const PrimaryNav = createStackNavigator(
 hile using the drawer navigator inside stack navigator.*/
     DrawerNavigator: {
       screen: DrawerNavigator
-    }
+    },
+
+    ProfileScreen: {
+      name: "ProfileScreen",
+      description: "ProfileScreen",
+      screen: ProfileScreen,
+      navigationOptions: {
+        title: "Profile Screen"
+      }
+    },
   },
   {
     navigationOptions: ({ navigation }) => ({
@@ -46,7 +56,13 @@ hile using the drawer navigator inside stack navigator.*/
       headerLeft: (
         <TouchableOpacity
           onPress={() => {
-            navigation.dispatch(DrawerActions.toggleDrawer());
+            const { routeName } = navigation.state
+            if (routeName === 'DrawerNavigator') {
+              navigation.dispatch(DrawerActions.toggleDrawer())
+            }
+            else {
+              navigation.goBack();
+            }
           }}
         >
           <MenuIcon navigation={navigation} />
