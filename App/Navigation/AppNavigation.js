@@ -42,7 +42,7 @@ hile using the drawer navigator inside stack navigator.*/
   },
   {
     navigationOptions: ({ navigation }) => ({
-      title: "React Native Starter", // Title to appear in status bar
+      title: "Tech Home", // Title to appear in status bar
       headerLeft: (
         <TouchableOpacity
           onPress={() => {
@@ -55,7 +55,7 @@ hile using the drawer navigator inside stack navigator.*/
       headerStyle: {
         backgroundColor: Colors.lightGrey
       },
-      headerTintColor: "#fff",
+      headerTintColor: Colors.primary,
       headerTitleStyle: {
         fontWeight: "400"
       }
