@@ -16,7 +16,7 @@ const bannerData = [
 ]
 
 const catData = [
-  { key: 1, title: 'Mera Aashiyaana', icon: 'home' },
+  { key: 1, title: 'Mera Aashiyaana', icon: 'home-city-outline' },
   { key: 2, title: 'Support', icon: 'help-box' },
   { key: 3, title: 'Smart Key', icon: 'cellphone-key' },
   { key: 4, title: 'Climate', icon: 'weather-partlycloudy' },
