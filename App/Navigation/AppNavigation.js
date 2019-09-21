@@ -53,7 +53,7 @@ hile using the drawer navigator inside stack navigator.*/
         </TouchableOpacity>
       ),
       headerStyle: {
-        backgroundColor: Colors.primary
+        backgroundColor: Colors.lightGrey
       },
       headerTintColor: "#fff",
       headerTitleStyle: {
