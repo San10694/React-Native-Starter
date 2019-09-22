@@ -16,12 +16,12 @@ const bannerData = [
 ]
 
 const catData = [
-  { key: 1, title: 'Mera Aashiyaana', icon: 'home-city-outline' },
-  { key: 2, title: 'Support', icon: 'help-box' },
-  { key: 3, title: 'Smart Key', icon: 'cellphone-key' },
-  { key: 4, title: 'Climate', icon: 'weather-partlycloudy' },
-  { key: 4, title: 'Services', icon: 'headset' },
-  { key: 4, title: 'Security', icon: 'security' },
+  { key: 1, title: 'Mera Aashiyaana', icon: 'home-city-outline', screen: 'ProfileScreen' },
+  { key: 2, title: 'Support', icon: 'help-box', screen: 'SupportScreen' },
+  { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: 'ProfileScreen' },
+  { key: 4, title: 'Climate', icon: 'weather-partlycloudy', screen: 'ProfileScreen' },
+  { key: 4, title: 'Services', icon: 'headset', screen: 'ProfileScreen' },
+  { key: 4, title: 'Security', icon: 'security', screen: 'ProfileScreen' },
 ]
 
 class HomeScreen extends Component {
@@ -69,7 +69,9 @@ class HomeScreen extends Component {
             {
               catData.map((item, index) => {
                 return (
-                  <TouchableOpacity onPress={() => this.props.navigation.navigate("ProfileScreen")}
+                  <TouchableOpacity onPress={() => {
+                    this.props.navigation.navigate(item.screen)
+                  }}
                     style={{
                       justifyContent: 'center',
                       alignItems: 'center', elevation: 2,
@@ -84,7 +86,6 @@ class HomeScreen extends Component {
                 )
               })
             }
-
           </View>
         </View>
       </View>

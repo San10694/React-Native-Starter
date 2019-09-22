@@ -11,6 +11,7 @@ import Routes from "./Routes";
 import Colors from '../Colors';
 import ProfileScreen from "../Containers/ProfileScreen";
 import ACScreen from "../Containers/ACScreen";
+import SupportScreen from "../Containers/SupportScreen";
 
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
@@ -47,7 +48,16 @@ hile using the drawer navigator inside stack navigator.*/
       description: "ProfileScreen",
       screen: ProfileScreen,
       navigationOptions: {
-        // title: "Profile Screen" //ACScreen
+        // title: "Profile Screen" 
+      }
+    },
+
+    SupportScreen: {
+      name: "SupportScreen",
+      description: "SupportScreen",
+      screen: SupportScreen,
+      navigationOptions: {
+        // title: "Profile Screen" 
       }
     },
     ACScreen: {
@@ -55,7 +65,7 @@ hile using the drawer navigator inside stack navigator.*/
       description: "ACScreen",
       screen: ACScreen,
       navigationOptions: {
-        // title: "Profile Screen" //ACScreen
+        // title: "Profile Screen" 
       }
     },
   },

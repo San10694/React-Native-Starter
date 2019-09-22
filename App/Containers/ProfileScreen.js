@@ -30,7 +30,7 @@ export default class ProfileScreen extends Component {
           {
             catData.map((item, index) => {
               return (
-                <TouchableOpacity onPress={() => this.props.navigation.navigate("ACScreen")}
+                <TouchableOpacity onPress={() => item.title == 'AC' ? this.props.navigation.navigate("ACScreen") : null}
                   style={{
                     justifyContent: 'center',
                     alignItems: 'center', elevation: 1,
