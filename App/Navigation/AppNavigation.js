@@ -10,6 +10,7 @@ import { MenuIcon } from "../Components/MenuIcon";
 import Routes from "./Routes";
 import Colors from '../Colors';
 import ProfileScreen from "../Containers/ProfileScreen";
+import ACScreen from "../Containers/ACScreen";
 
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
@@ -46,7 +47,15 @@ hile using the drawer navigator inside stack navigator.*/
       description: "ProfileScreen",
       screen: ProfileScreen,
       navigationOptions: {
-        title: "Profile Screen"
+        // title: "Profile Screen" //ACScreen
+      }
+    },
+    ACScreen: {
+      name: "ACScreen",
+      description: "ACScreen",
+      screen: ACScreen,
+      navigationOptions: {
+        // title: "Profile Screen" //ACScreen
       }
     },
   },
