@@ -46,7 +46,6 @@ export default class ProfileScreen extends Component {
                         <Image source={item.icon} style={styles.bookImg} resizeMode='stretch' />
                       </View>
                       : <Icon name={item.icon} size={40} color={Colors.primary} style={{ marginTop: 10 }}> </Icon>
-
                     }
                   </View>
                   <Text style={styles.welcome}>{item.title}</Text>
