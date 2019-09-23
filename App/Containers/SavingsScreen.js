@@ -18,7 +18,7 @@ export default class SavingsScreen extends Component {
                     <Text style={{
                         fontSize: 40, fontFamily: "roboto.medium", color: Colors.primary
                     }}>20%</Text>
-                    <Text style={styles.welcome}>Saved Last Month!</Text>
+                    <Text style={styles.welcome}>Saved Last Month.</Text>
                 </View>
 
             </View>
