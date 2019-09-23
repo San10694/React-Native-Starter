@@ -9,19 +9,19 @@ const { width, height } = Dimensions.get('window');
 
 
 const bannerData = [
-  { key: 1, title: 'Harry Poter part -1', image: images.banner2 },
-  { key: 2, title: 'Harry Poter part -2', price: 50, image: images.banner1 },
-  { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner2 },
+  { key: 1, title: 'Harry Poter part -1', image: images.banner1 },
+  { key: 2, title: 'Harry Poter part -2', price: 50, image: images.banner2 },
+  { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner1 },
   { key: 4, title: 'Harry Poter part -4', price: 50, image: images.banner1 }
 ]
 
 const catData = [
   { key: 1, title: 'Mera Aashiyaana', icon: 'home-city-outline', screen: 'ProfileScreen' },
-  { key: 2, title: 'Support', icon: 'help-box', screen: 'SupportScreen' },
-  { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: 'ProfileScreen' },
-  { key: 4, title: 'Climate', icon: 'weather-partlycloudy', screen: 'ProfileScreen' },
-  { key: 4, title: 'Services', icon: 'headset', screen: 'ProfileScreen' },
-  { key: 4, title: 'Security', icon: 'security', screen: 'ProfileScreen' },
+  { key: 2, title: 'Support', icon: 'headset', screen: 'SupportScreen' },
+  { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: null },
+  { key: 4, title: 'Savings', icon: 'wallet-outline', screen: null },
+  { key: 4, title: 'Services', icon: 'help-box', screen: null },
+  { key: 4, title: 'Security', icon: 'security', screen: null },
 ]
 
 class HomeScreen extends Component {
@@ -70,12 +70,16 @@ class HomeScreen extends Component {
               catData.map((item, index) => {
                 return (
                   <TouchableOpacity onPress={() => {
-                    this.props.navigation.navigate(item.screen)
+                    if (item.screen) {
+                      this.props.navigation.navigate(item.screen)
+                    }
                   }}
                     style={{
                       justifyContent: 'center',
-                      alignItems: 'center', elevation: 2,
-                      borderRadius: 5, width: width * 0.28,
+                      alignItems: 'center',
+                      elevation: 1,
+                      borderRadius: 5,
+                      width: width * 0.28,
                       margin: 5,
                     }}>
                     <View >
