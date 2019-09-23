@@ -12,7 +12,8 @@ import Colors from '../Colors';
 import ProfileScreen from "../Containers/ProfileScreen";
 import ACScreen from "../Containers/ACScreen";
 import SupportScreen from "../Containers/SupportScreen";
-
+import SmartkeyScreen from '../Containers/SmartKeyScreen';
+import SavingsScreen from '../Containers/SavingsScreen';
 
 const DrawerNavigator = createDrawerNavigator(Routes, {
   initialRouteName: "HomeScreen",
@@ -36,9 +37,9 @@ const DrawerNavigator = createDrawerNavigator(Routes, {
 
 const PrimaryNav = createStackNavigator(
   {
-    /*important: key and screen name (i.e. DrawerNavigator) should be same
-     w
-hile using the drawer navigator inside stack navigator.*/
+    // important: key and screen name (i.e. DrawerNavigator) should be same
+    //  while using the drawer navigator inside stack navigator.
+
     DrawerNavigator: {
       screen: DrawerNavigator
     },
@@ -56,6 +57,22 @@ hile using the drawer navigator inside stack navigator.*/
       name: "SupportScreen",
       description: "SupportScreen",
       screen: SupportScreen,
+      navigationOptions: {
+        // title: "Profile Screen" 
+      }
+    },
+    SmartkeyScreen: {
+      name: "SmartkeyScreen",
+      description: "SmartkeyScreen",
+      screen: SmartkeyScreen,
+      navigationOptions: {
+        // title: "Profile Screen" 
+      }
+    },
+    SavingsScreen: {
+      name: "SavingsScreen",
+      description: "SavingsScreen",
+      screen: SavingsScreen,
       navigationOptions: {
         // title: "Profile Screen" 
       }

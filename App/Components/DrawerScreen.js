@@ -32,7 +32,7 @@ class DrawerScreen extends Component {
                 HOME
               </Text>
             </TouchableOpacity>
-            <TouchableOpacity style={styles.menuItem}>
+            {/* <TouchableOpacity style={styles.menuItem}>
               <Text
                 style={styles.textItem}
                 onPress={this.navigateToScreen("AboutScreen")}
@@ -47,7 +47,7 @@ class DrawerScreen extends Component {
               >
                 CONTACT
               </Text>
-            </TouchableOpacity>
+            </TouchableOpacity> */}
           </View>
         </ScrollView>
       </View>

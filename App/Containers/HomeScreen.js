@@ -18,8 +18,8 @@ const bannerData = [
 const catData = [
   { key: 1, title: 'Mera Aashiyaana', icon: 'home-city-outline', screen: 'ProfileScreen' },
   { key: 2, title: 'Support', icon: 'headset', screen: 'SupportScreen' },
-  { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: null },
-  { key: 4, title: 'Savings', icon: 'wallet-outline', screen: null },
+  { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: 'SmartkeyScreen' },
+  { key: 4, title: 'My Savings', icon: 'wallet-outline', screen: 'SavingsScreen' },
   { key: 4, title: 'Services', icon: 'help-box', screen: null },
   { key: 4, title: 'Security', icon: 'security', screen: null },
 ]
