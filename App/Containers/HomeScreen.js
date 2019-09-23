@@ -20,8 +20,8 @@ const catData = [
   { key: 2, title: 'Support', icon: 'headset', screen: 'SupportScreen' },
   { key: 3, title: 'Smart Key', icon: 'cellphone-key', screen: 'SmartkeyScreen' },
   { key: 4, title: 'My Savings', icon: 'wallet-outline', screen: 'SavingsScreen' },
-  { key: 4, title: 'Services', icon: 'help-box', screen: null },
-  { key: 4, title: 'Security', icon: 'security', screen: null },
+  // { key: 4, title: 'Services', icon: 'help-box', screen: null },
+  // { key: 4, title: 'Security', icon: 'security', screen: null },
 ]
 
 class HomeScreen extends Component {

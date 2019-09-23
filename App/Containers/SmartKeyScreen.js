@@ -6,7 +6,7 @@ export default class SmartkeyScreen extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.welcome}>Welcome to SupportScreen!</Text>
+                <Text style={styles.welcome}>Welcome to Smartkey Screen</Text>
             </View>
         );
     }
