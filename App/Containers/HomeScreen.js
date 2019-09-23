@@ -12,7 +12,7 @@ const bannerData = [
   { key: 1, title: 'Harry Poter part -1', image: images.banner1 },
   { key: 2, title: 'Harry Poter part -2', price: 50, image: images.banner2 },
   { key: 3, title: 'Harry Poter part -3', price: 50, image: images.banner1 },
-  { key: 4, title: 'Harry Poter part -4', price: 50, image: images.banner1 }
+  { key: 4, title: 'Harry Poter part -4', price: 50, image: images.banner2 }
 ]
 
 const catData = [
