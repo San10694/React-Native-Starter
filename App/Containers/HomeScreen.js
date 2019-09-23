@@ -78,7 +78,7 @@ class HomeScreen extends Component {
                       justifyContent: 'center',
                       alignItems: 'center',
                       elevation: 1,
-                      borderRadius: 5,
+                      borderRadius: 2,
                       width: width * 0.28,
                       margin: 5,
                     }}>
