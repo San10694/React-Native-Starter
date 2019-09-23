@@ -128,7 +128,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     paddingBottom: 20,
     paddingTop: 5,
-    color: Colors.black
+    color: Colors.black,
+    textAlign: 'center'
   },
   cardSectionContainer: {
     backgroundColor: Colors.background,

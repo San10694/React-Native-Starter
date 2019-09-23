@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { TouchableOpacity, StyleSheet, Text, ScrollView, Dimensions, View, Image } from "react-native";
 import { connect } from "react-redux";
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import IconEntypo from 'react-native-vector-icons/Entypo';
 import images from "../Images";
 import Colors from '../Colors';
 const { width, height } = Dimensions.get('window');

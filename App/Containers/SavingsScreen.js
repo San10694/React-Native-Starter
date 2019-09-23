@@ -16,9 +16,9 @@ export default class SavingsScreen extends Component {
                     height: height * 0.45
                 }}>
                     <Text style={{
-                        fontSize: 40, fontFamily: "roboto.medium", color: Colors.primary
+                        fontSize: 40, fontFamily: "roboto.medium", color: 'green'
                     }}>20%</Text>
-                    <Text style={styles.welcome}>Saved Last Month.</Text>
+                    <Text style={styles.welcome}>Savings on electricity bill due to green technology.</Text>
                 </View>
 
             </View>
