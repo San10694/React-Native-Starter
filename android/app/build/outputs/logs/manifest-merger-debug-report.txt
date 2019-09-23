@@ -29,7 +29,7 @@ INJECTED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/and
 INJECTED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:2:5-37
+		ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:2:5-28
 		INJECTED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -70,7 +70,7 @@ MERGED from [org.webkit:android-jsc:r174650] /Users/sandeeptiwari/.gradle/caches
 		ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
 		ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:8:7-38
-activity#com.reactnativestarter.MainActivity
+activity#com.samruddhi.MainActivity
 ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
 		ADDED from /Users/sandeeptiwari/Desktop/react-native/React-Native-Starter/android/app/src/main/AndroidManifest.xml:15:9-41

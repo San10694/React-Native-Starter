@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.reactnativestarter"
+    package="com.samruddhi"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -15,14 +15,14 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.reactnativestarter.MainApplication"
+        android:name="com.samruddhi.MainApplication"
         android:allowBackup="false"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.reactnativestarter.MainActivity"
+            android:name="com.samruddhi.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize" >

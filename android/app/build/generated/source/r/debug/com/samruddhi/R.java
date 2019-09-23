@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.reactnativestarter;
+package com.samruddhi;
 
 public final class R {
   public static final class anim {
@@ -3285,35 +3285,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.reactnativestarter:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.reactnativestarter:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.reactnativestarter:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.reactnativestarter:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.reactnativestarter:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.reactnativestarter:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.reactnativestarter:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.reactnativestarter:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.reactnativestarter:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.reactnativestarter:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.reactnativestarter:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.reactnativestarter:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.reactnativestarter:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.reactnativestarter:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.reactnativestarter:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.reactnativestarter:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.reactnativestarter:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.reactnativestarter:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.reactnativestarter:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.reactnativestarter:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.reactnativestarter:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.reactnativestarter:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.reactnativestarter:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.reactnativestarter:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.reactnativestarter:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.reactnativestarter:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.reactnativestarter:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.reactnativestarter:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.reactnativestarter:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.samruddhi:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.samruddhi:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.samruddhi:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.samruddhi:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.samruddhi:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.samruddhi:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.samruddhi:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.samruddhi:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.samruddhi:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.samruddhi:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.samruddhi:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.samruddhi:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.samruddhi:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.samruddhi:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.samruddhi:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.samruddhi:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.samruddhi:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.samruddhi:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.samruddhi:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.samruddhi:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.samruddhi:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.samruddhi:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.samruddhi:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.samruddhi:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.samruddhi:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.samruddhi:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.samruddhi:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.samruddhi:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.samruddhi:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3356,7 +3356,7 @@ public final class R {
         0x7f020113
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3364,11 +3364,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:background
+     * @attr name com.samruddhi:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3379,11 +3379,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundSplit
+     * @attr name com.samruddhi:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3394,11 +3394,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundStacked
+     * @attr name com.samruddhi:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3407,11 +3407,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetEnd
+     * @attr name com.samruddhi:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3420,11 +3420,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetEndWithActions
+     * @attr name com.samruddhi:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3433,11 +3433,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetLeft
+     * @attr name com.samruddhi:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3446,11 +3446,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetRight
+     * @attr name com.samruddhi:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3459,11 +3459,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetStart
+     * @attr name com.samruddhi:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3472,11 +3472,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetStartWithNavigation
+     * @attr name com.samruddhi:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3484,11 +3484,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:customNavigationLayout
+     * @attr name com.samruddhi:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3506,11 +3506,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:displayOptions
+     * @attr name com.samruddhi:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3518,11 +3518,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:divider
+     * @attr name com.samruddhi:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3531,11 +3531,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:elevation
+     * @attr name com.samruddhi:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3544,21 +3544,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:height
+     * @attr name com.samruddhi:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:hideOnContentScroll
+     * @attr name com.samruddhi:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3566,11 +3566,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:homeAsUpIndicator
+     * @attr name com.samruddhi:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3578,11 +3578,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:homeLayout
+     * @attr name com.samruddhi:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3590,11 +3590,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:icon
+     * @attr name com.samruddhi:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3602,11 +3602,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:indeterminateProgressStyle
+     * @attr name com.samruddhi:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3615,11 +3615,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:itemPadding
+     * @attr name com.samruddhi:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3627,11 +3627,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:logo
+     * @attr name com.samruddhi:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3645,11 +3645,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:navigationMode
+     * @attr name com.samruddhi:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3657,11 +3657,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:popupTheme
+     * @attr name com.samruddhi:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3670,11 +3670,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:progressBarPadding
+     * @attr name com.samruddhi:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3682,21 +3682,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:progressBarStyle
+     * @attr name com.samruddhi:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:subtitle
+     * @attr name com.samruddhi:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3704,21 +3704,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:subtitleTextStyle
+     * @attr name com.samruddhi:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:title
+     * @attr name com.samruddhi:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3726,7 +3726,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:titleTextStyle
+     * @attr name com.samruddhi:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -3808,12 +3808,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.reactnativestarter:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.reactnativestarter:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.reactnativestarter:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.reactnativestarter:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.reactnativestarter:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.reactnativestarter:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.samruddhi:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.samruddhi:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.samruddhi:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.samruddhi:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.samruddhi:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.samruddhi:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3827,7 +3827,7 @@ public final class R {
         0x7f0200ef, 0x7f020113
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3835,11 +3835,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:background
+     * @attr name com.samruddhi:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3850,11 +3850,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundSplit
+     * @attr name com.samruddhi:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3862,11 +3862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:closeItemLayout
+     * @attr name com.samruddhi:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3875,11 +3875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:height
+     * @attr name com.samruddhi:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3887,11 +3887,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:subtitleTextStyle
+     * @attr name com.samruddhi:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3899,7 +3899,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:titleTextStyle
+     * @attr name com.samruddhi:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3909,8 +3909,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.reactnativestarter:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.reactnativestarter:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.samruddhi:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.samruddhi:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3919,7 +3919,7 @@ public final class R {
         0x7f020074, 0x7f02008e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3927,17 +3927,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:expandActivityOverflowButtonDrawable
+     * @attr name com.samruddhi:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:initialActivityCount
+     * @attr name com.samruddhi:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3948,13 +3948,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.reactnativestarter:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.reactnativestarter:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.reactnativestarter:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.reactnativestarter:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.reactnativestarter:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.reactnativestarter:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.reactnativestarter:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.samruddhi:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.samruddhi:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.samruddhi:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.samruddhi:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.samruddhi:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.samruddhi:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.samruddhi:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -3982,7 +3982,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3991,11 +3991,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:buttonIconDimen
+     * @attr name com.samruddhi:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4003,11 +4003,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonPanelSideLayout
+     * @attr name com.samruddhi:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4015,11 +4015,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listItemLayout
+     * @attr name com.samruddhi:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4027,11 +4027,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listLayout
+     * @attr name com.samruddhi:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4039,21 +4039,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:multiChoiceItemLayout
+     * @attr name com.samruddhi:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:showTitle
+     * @attr name com.samruddhi:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4061,7 +4061,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:singleChoiceItemLayout
+     * @attr name com.samruddhi:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -4072,9 +4072,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.reactnativestarter:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.reactnativestarter:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.reactnativestarter:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.samruddhi:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.samruddhi:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.samruddhi:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4100,7 +4100,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4108,22 +4108,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:srcCompat
+     * @attr name com.samruddhi:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:tint
+     * @attr name com.samruddhi:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4140,7 +4140,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:tintMode
+     * @attr name com.samruddhi:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -4151,9 +4151,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.reactnativestarter:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.reactnativestarter:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.reactnativestarter:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.samruddhi:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.samruddhi:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.samruddhi:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4176,7 +4176,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4184,22 +4184,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:tickMark
+     * @attr name com.samruddhi:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:tickMarkTint
+     * @attr name com.samruddhi:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4216,7 +4216,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:tickMarkTintMode
+     * @attr name com.samruddhi:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -4356,13 +4356,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.reactnativestarter:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.reactnativestarter:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.reactnativestarter:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.reactnativestarter:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.reactnativestarter:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.reactnativestarter:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.reactnativestarter:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.samruddhi:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.samruddhi:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.samruddhi:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.samruddhi:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.samruddhi:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.samruddhi:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.samruddhi:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4390,7 +4390,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4399,11 +4399,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:autoSizeMaxTextSize
+     * @attr name com.samruddhi:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4412,11 +4412,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:autoSizeMinTextSize
+     * @attr name com.samruddhi:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4424,11 +4424,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:autoSizePresetSizes
+     * @attr name com.samruddhi:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4437,11 +4437,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:autoSizeStepGranularity
+     * @attr name com.samruddhi:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4454,21 +4454,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:autoSizeTextType
+     * @attr name com.samruddhi:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:fontFamily
+     * @attr name com.samruddhi:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4478,7 +4478,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:textAllCaps
+     * @attr name com.samruddhi:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4490,124 +4490,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.reactnativestarter:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.reactnativestarter:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.reactnativestarter:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.reactnativestarter:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.reactnativestarter:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.reactnativestarter:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.reactnativestarter:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.reactnativestarter:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.reactnativestarter:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.reactnativestarter:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.reactnativestarter:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.reactnativestarter:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.reactnativestarter:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.reactnativestarter:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.reactnativestarter:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.reactnativestarter:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.reactnativestarter:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.reactnativestarter:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.reactnativestarter:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.reactnativestarter:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.reactnativestarter:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.reactnativestarter:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.reactnativestarter:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.reactnativestarter:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.reactnativestarter:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.reactnativestarter:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.reactnativestarter:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.reactnativestarter:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.reactnativestarter:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.reactnativestarter:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.reactnativestarter:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.reactnativestarter:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.reactnativestarter:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.reactnativestarter:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.reactnativestarter:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.reactnativestarter:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.reactnativestarter:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.reactnativestarter:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.reactnativestarter:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.reactnativestarter:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.reactnativestarter:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.reactnativestarter:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.reactnativestarter:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.reactnativestarter:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.reactnativestarter:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.reactnativestarter:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.reactnativestarter:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.reactnativestarter:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.reactnativestarter:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.reactnativestarter:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.reactnativestarter:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.reactnativestarter:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.reactnativestarter:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.reactnativestarter:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.reactnativestarter:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.reactnativestarter:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.reactnativestarter:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.reactnativestarter:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.reactnativestarter:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.reactnativestarter:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.reactnativestarter:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.reactnativestarter:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.reactnativestarter:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.reactnativestarter:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.reactnativestarter:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.reactnativestarter:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.reactnativestarter:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.reactnativestarter:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.reactnativestarter:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.reactnativestarter:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.reactnativestarter:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.reactnativestarter:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.reactnativestarter:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.reactnativestarter:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.reactnativestarter:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.reactnativestarter:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.reactnativestarter:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.reactnativestarter:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.reactnativestarter:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.reactnativestarter:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.reactnativestarter:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.reactnativestarter:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.reactnativestarter:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.reactnativestarter:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.reactnativestarter:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.reactnativestarter:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.reactnativestarter:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.reactnativestarter:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.reactnativestarter:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.reactnativestarter:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.reactnativestarter:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.reactnativestarter:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.reactnativestarter:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.reactnativestarter:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.reactnativestarter:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.reactnativestarter:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.reactnativestarter:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.reactnativestarter:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.reactnativestarter:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.reactnativestarter:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.reactnativestarter:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.reactnativestarter:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.reactnativestarter:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.reactnativestarter:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.reactnativestarter:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.reactnativestarter:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.reactnativestarter:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.reactnativestarter:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.reactnativestarter:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.reactnativestarter:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.reactnativestarter:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.reactnativestarter:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.reactnativestarter:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.reactnativestarter:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.reactnativestarter:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.reactnativestarter:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.reactnativestarter:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.reactnativestarter:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.samruddhi:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.samruddhi:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.samruddhi:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.samruddhi:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.samruddhi:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.samruddhi:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.samruddhi:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.samruddhi:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.samruddhi:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.samruddhi:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.samruddhi:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.samruddhi:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.samruddhi:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.samruddhi:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.samruddhi:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.samruddhi:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.samruddhi:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.samruddhi:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.samruddhi:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.samruddhi:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.samruddhi:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.samruddhi:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.samruddhi:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.samruddhi:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.samruddhi:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.samruddhi:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.samruddhi:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.samruddhi:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.samruddhi:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.samruddhi:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.samruddhi:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.samruddhi:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.samruddhi:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.samruddhi:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.samruddhi:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.samruddhi:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.samruddhi:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.samruddhi:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.samruddhi:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.samruddhi:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.samruddhi:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.samruddhi:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.samruddhi:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.samruddhi:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.samruddhi:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.samruddhi:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.samruddhi:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.samruddhi:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.samruddhi:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.samruddhi:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.samruddhi:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.samruddhi:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.samruddhi:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.samruddhi:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.samruddhi:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.samruddhi:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.samruddhi:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.samruddhi:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.samruddhi:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.samruddhi:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.samruddhi:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.samruddhi:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.samruddhi:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.samruddhi:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.samruddhi:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.samruddhi:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.samruddhi:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.samruddhi:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.samruddhi:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.samruddhi:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.samruddhi:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.samruddhi:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.samruddhi:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.samruddhi:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.samruddhi:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.samruddhi:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.samruddhi:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.samruddhi:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.samruddhi:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.samruddhi:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.samruddhi:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.samruddhi:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.samruddhi:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.samruddhi:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.samruddhi:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.samruddhi:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.samruddhi:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.samruddhi:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.samruddhi:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.samruddhi:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.samruddhi:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.samruddhi:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.samruddhi:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.samruddhi:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.samruddhi:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.samruddhi:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.samruddhi:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.samruddhi:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.samruddhi:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.samruddhi:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.samruddhi:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.samruddhi:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.samruddhi:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.samruddhi:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.samruddhi:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.samruddhi:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.samruddhi:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.samruddhi:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.samruddhi:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.samruddhi:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.samruddhi:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.samruddhi:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.samruddhi:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.samruddhi:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.samruddhi:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.samruddhi:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.samruddhi:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.samruddhi:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -4785,7 +4785,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4793,11 +4793,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarDivider
+     * @attr name com.samruddhi:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4805,11 +4805,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarItemBackground
+     * @attr name com.samruddhi:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4817,11 +4817,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarPopupTheme
+     * @attr name com.samruddhi:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4838,11 +4838,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:actionBarSize
+     * @attr name com.samruddhi:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4850,11 +4850,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarSplitStyle
+     * @attr name com.samruddhi:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4862,11 +4862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarStyle
+     * @attr name com.samruddhi:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4874,11 +4874,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarTabBarStyle
+     * @attr name com.samruddhi:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4886,11 +4886,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarTabStyle
+     * @attr name com.samruddhi:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4898,11 +4898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarTabTextStyle
+     * @attr name com.samruddhi:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4910,11 +4910,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarTheme
+     * @attr name com.samruddhi:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4922,11 +4922,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionBarWidgetTheme
+     * @attr name com.samruddhi:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4934,11 +4934,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionButtonStyle
+     * @attr name com.samruddhi:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4946,11 +4946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionDropDownStyle
+     * @attr name com.samruddhi:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4958,11 +4958,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionMenuTextAppearance
+     * @attr name com.samruddhi:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4973,11 +4973,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:actionMenuTextColor
+     * @attr name com.samruddhi:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4985,11 +4985,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeBackground
+     * @attr name com.samruddhi:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4997,11 +4997,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeCloseButtonStyle
+     * @attr name com.samruddhi:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5009,11 +5009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeCloseDrawable
+     * @attr name com.samruddhi:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5021,11 +5021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeCopyDrawable
+     * @attr name com.samruddhi:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5033,11 +5033,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeCutDrawable
+     * @attr name com.samruddhi:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5045,11 +5045,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeFindDrawable
+     * @attr name com.samruddhi:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5057,11 +5057,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModePasteDrawable
+     * @attr name com.samruddhi:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5069,11 +5069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModePopupWindowStyle
+     * @attr name com.samruddhi:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5081,11 +5081,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeSelectAllDrawable
+     * @attr name com.samruddhi:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5093,11 +5093,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeShareDrawable
+     * @attr name com.samruddhi:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5105,11 +5105,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeSplitBackground
+     * @attr name com.samruddhi:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5117,11 +5117,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeStyle
+     * @attr name com.samruddhi:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5129,11 +5129,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionModeWebSearchDrawable
+     * @attr name com.samruddhi:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5141,11 +5141,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionOverflowButtonStyle
+     * @attr name com.samruddhi:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5153,11 +5153,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionOverflowMenuStyle
+     * @attr name com.samruddhi:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5165,11 +5165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:activityChooserViewStyle
+     * @attr name com.samruddhi:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5177,21 +5177,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:alertDialogButtonGroupStyle
+     * @attr name com.samruddhi:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:alertDialogCenterButtons
+     * @attr name com.samruddhi:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5199,11 +5199,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:alertDialogStyle
+     * @attr name com.samruddhi:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5211,11 +5211,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:alertDialogTheme
+     * @attr name com.samruddhi:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5223,11 +5223,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:autoCompleteTextViewStyle
+     * @attr name com.samruddhi:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5235,11 +5235,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:borderlessButtonStyle
+     * @attr name com.samruddhi:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5247,11 +5247,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonBarButtonStyle
+     * @attr name com.samruddhi:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5259,11 +5259,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonBarNegativeButtonStyle
+     * @attr name com.samruddhi:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5271,11 +5271,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonBarNeutralButtonStyle
+     * @attr name com.samruddhi:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5283,11 +5283,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonBarPositiveButtonStyle
+     * @attr name com.samruddhi:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5295,11 +5295,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonBarStyle
+     * @attr name com.samruddhi:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5307,11 +5307,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonStyle
+     * @attr name com.samruddhi:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5319,11 +5319,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonStyleSmall
+     * @attr name com.samruddhi:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5331,11 +5331,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:checkboxStyle
+     * @attr name com.samruddhi:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5343,77 +5343,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:checkedTextViewStyle
+     * @attr name com.samruddhi:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorAccent
+     * @attr name com.samruddhi:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorBackgroundFloating
+     * @attr name com.samruddhi:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorButtonNormal
+     * @attr name com.samruddhi:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorControlActivated
+     * @attr name com.samruddhi:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorControlHighlight
+     * @attr name com.samruddhi:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorControlNormal
+     * @attr name com.samruddhi:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5424,44 +5424,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorError
+     * @attr name com.samruddhi:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorPrimary
+     * @attr name com.samruddhi:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorPrimaryDark
+     * @attr name com.samruddhi:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:colorSwitchThumbNormal
+     * @attr name com.samruddhi:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5469,11 +5469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:controlBackground
+     * @attr name com.samruddhi:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5482,11 +5482,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:dialogPreferredPadding
+     * @attr name com.samruddhi:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5494,11 +5494,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:dialogTheme
+     * @attr name com.samruddhi:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5506,11 +5506,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:dividerHorizontal
+     * @attr name com.samruddhi:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5518,11 +5518,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:dividerVertical
+     * @attr name com.samruddhi:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5530,11 +5530,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:dropDownListViewStyle
+     * @attr name com.samruddhi:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5543,11 +5543,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:dropdownListPreferredItemHeight
+     * @attr name com.samruddhi:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5555,11 +5555,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:editTextBackground
+     * @attr name com.samruddhi:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5570,11 +5570,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:editTextColor
+     * @attr name com.samruddhi:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5582,11 +5582,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:editTextStyle
+     * @attr name com.samruddhi:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5594,11 +5594,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:homeAsUpIndicator
+     * @attr name com.samruddhi:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5606,11 +5606,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:imageButtonStyle
+     * @attr name com.samruddhi:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5618,11 +5618,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listChoiceBackgroundIndicator
+     * @attr name com.samruddhi:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5630,11 +5630,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listDividerAlertDialog
+     * @attr name com.samruddhi:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5642,11 +5642,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listMenuViewStyle
+     * @attr name com.samruddhi:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5654,11 +5654,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:listPopupWindowStyle
+     * @attr name com.samruddhi:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5667,11 +5667,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:listPreferredItemHeight
+     * @attr name com.samruddhi:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5680,11 +5680,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:listPreferredItemHeightLarge
+     * @attr name com.samruddhi:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5693,11 +5693,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:listPreferredItemHeightSmall
+     * @attr name com.samruddhi:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5706,11 +5706,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:listPreferredItemPaddingLeft
+     * @attr name com.samruddhi:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5719,11 +5719,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:listPreferredItemPaddingRight
+     * @attr name com.samruddhi:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5731,11 +5731,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:panelBackground
+     * @attr name com.samruddhi:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5743,11 +5743,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:panelMenuListTheme
+     * @attr name com.samruddhi:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5756,11 +5756,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:panelMenuListWidth
+     * @attr name com.samruddhi:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5768,11 +5768,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:popupMenuStyle
+     * @attr name com.samruddhi:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5780,11 +5780,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:popupWindowStyle
+     * @attr name com.samruddhi:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5792,11 +5792,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:radioButtonStyle
+     * @attr name com.samruddhi:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5804,11 +5804,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:ratingBarStyle
+     * @attr name com.samruddhi:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5816,11 +5816,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:ratingBarStyleIndicator
+     * @attr name com.samruddhi:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5828,11 +5828,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:ratingBarStyleSmall
+     * @attr name com.samruddhi:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5840,11 +5840,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:searchViewStyle
+     * @attr name com.samruddhi:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5852,11 +5852,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:seekBarStyle
+     * @attr name com.samruddhi:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5864,11 +5864,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:selectableItemBackground
+     * @attr name com.samruddhi:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5876,11 +5876,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:selectableItemBackgroundBorderless
+     * @attr name com.samruddhi:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5888,11 +5888,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:spinnerDropDownItemStyle
+     * @attr name com.samruddhi:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5900,11 +5900,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:spinnerStyle
+     * @attr name com.samruddhi:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5912,11 +5912,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:switchStyle
+     * @attr name com.samruddhi:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5924,11 +5924,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceLargePopupMenu
+     * @attr name com.samruddhi:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5936,11 +5936,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceListItem
+     * @attr name com.samruddhi:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5948,11 +5948,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceListItemSecondary
+     * @attr name com.samruddhi:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5960,11 +5960,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceListItemSmall
+     * @attr name com.samruddhi:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5972,11 +5972,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearancePopupMenuHeader
+     * @attr name com.samruddhi:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5984,11 +5984,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceSearchResultSubtitle
+     * @attr name com.samruddhi:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5996,11 +5996,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceSearchResultTitle
+     * @attr name com.samruddhi:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6008,11 +6008,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:textAppearanceSmallPopupMenu
+     * @attr name com.samruddhi:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6023,11 +6023,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:textColorAlertDialogListItem
+     * @attr name com.samruddhi:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6038,11 +6038,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:textColorSearchUrl
+     * @attr name com.samruddhi:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6050,11 +6050,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:toolbarNavigationButtonStyle
+     * @attr name com.samruddhi:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6062,11 +6062,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:toolbarStyle
+     * @attr name com.samruddhi:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6077,11 +6077,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:tooltipForegroundColor
+     * @attr name com.samruddhi:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6089,51 +6089,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:tooltipFrameBackground
+     * @attr name com.samruddhi:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:viewInflaterClass
+     * @attr name com.samruddhi:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:windowActionBar
+     * @attr name com.samruddhi:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:windowActionBarOverlay
+     * @attr name com.samruddhi:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:windowActionModeOverlay
+     * @attr name com.samruddhi:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6146,11 +6146,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowFixedHeightMajor
+     * @attr name com.samruddhi:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6163,11 +6163,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowFixedHeightMinor
+     * @attr name com.samruddhi:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6180,11 +6180,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowFixedWidthMajor
+     * @attr name com.samruddhi:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6197,11 +6197,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowFixedWidthMinor
+     * @attr name com.samruddhi:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6214,11 +6214,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowMinWidthMajor
+     * @attr name com.samruddhi:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6231,17 +6231,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.reactnativestarter:windowMinWidthMinor
+     * @attr name com.samruddhi:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:windowNoTitle
+     * @attr name com.samruddhi:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -6251,7 +6251,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.reactnativestarter:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.samruddhi:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -6259,13 +6259,13 @@ public final class R {
         0x7f020029
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:allowStacking
+     * @attr name com.samruddhi:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -6277,7 +6277,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.reactnativestarter:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.samruddhi:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -6307,12 +6307,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.reactnativestarter:alpha
+     * @attr name com.samruddhi:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -6323,8 +6323,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.reactnativestarter:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.reactnativestarter:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.samruddhi:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.samruddhi:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -6346,18 +6346,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:buttonTint
+     * @attr name com.samruddhi:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6374,7 +6374,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:buttonTintMode
+     * @attr name com.samruddhi:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -6384,8 +6384,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.reactnativestarter:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.reactnativestarter:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.samruddhi:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.samruddhi:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -6394,7 +6394,7 @@ public final class R {
         0x7f020091, 0x7f0200e9
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6402,11 +6402,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:keylines
+     * @attr name com.samruddhi:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6417,7 +6417,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:statusBarBackground
+     * @attr name com.samruddhi:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -6428,12 +6428,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.reactnativestarter:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.reactnativestarter:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.reactnativestarter:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.reactnativestarter:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.reactnativestarter:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.reactnativestarter:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.samruddhi:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.samruddhi:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.samruddhi:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.samruddhi:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.samruddhi:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.samruddhi:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -6477,7 +6477,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6485,11 +6485,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:layout_anchor
+     * @attr name com.samruddhi:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6514,21 +6514,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:layout_anchorGravity
+     * @attr name com.samruddhi:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:layout_behavior
+     * @attr name com.samruddhi:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6547,11 +6547,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:layout_dodgeInsetEdges
+     * @attr name com.samruddhi:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6569,16 +6569,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:layout_insetEdge
+     * @attr name com.samruddhi:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:layout_keyline
+     * @attr name com.samruddhi:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -6588,14 +6588,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.reactnativestarter:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.reactnativestarter:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.reactnativestarter:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.reactnativestarter:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.reactnativestarter:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.reactnativestarter:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.reactnativestarter:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.reactnativestarter:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.samruddhi:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.samruddhi:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.samruddhi:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.samruddhi:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.samruddhi:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.samruddhi:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.samruddhi:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.samruddhi:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -6611,7 +6611,7 @@ public final class R {
         0x7f02006c, 0x7f020082, 0x7f0200e3, 0x7f020101
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6620,11 +6620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:arrowHeadLength
+     * @attr name com.samruddhi:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6633,11 +6633,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:arrowShaftLength
+     * @attr name com.samruddhi:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6646,22 +6646,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:barLength
+     * @attr name com.samruddhi:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:color
+     * @attr name com.samruddhi:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6670,11 +6670,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:drawableSize
+     * @attr name com.samruddhi:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6683,21 +6683,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:gapBetweenBars
+     * @attr name com.samruddhi:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:spinBars
+     * @attr name com.samruddhi:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6706,7 +6706,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:thickness
+     * @attr name com.samruddhi:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -6716,12 +6716,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.reactnativestarter:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.reactnativestarter:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.reactnativestarter:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.reactnativestarter:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.reactnativestarter:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.reactnativestarter:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.samruddhi:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.samruddhi:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.samruddhi:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.samruddhi:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.samruddhi:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.samruddhi:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -6735,17 +6735,17 @@ public final class R {
         0x7f02007e, 0x7f02007f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:fontProviderAuthority
+     * @attr name com.samruddhi:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6753,11 +6753,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:fontProviderCerts
+     * @attr name com.samruddhi:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6770,11 +6770,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:fontProviderFetchStrategy
+     * @attr name com.samruddhi:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6787,27 +6787,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:fontProviderFetchTimeout
+     * @attr name com.samruddhi:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:fontProviderPackage
+     * @attr name com.samruddhi:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:fontProviderQuery
+     * @attr name com.samruddhi:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -6820,9 +6820,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.reactnativestarter:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.reactnativestarter:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.reactnativestarter:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.samruddhi:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.samruddhi:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.samruddhi:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -6874,7 +6874,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6882,11 +6882,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:font
+     * @attr name com.samruddhi:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6899,16 +6899,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:fontStyle
+     * @attr name com.samruddhi:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:fontWeight
+     * @attr name com.samruddhi:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -6918,35 +6918,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.reactnativestarter:actualImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.reactnativestarter:backgroundImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.reactnativestarter:fadeDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.reactnativestarter:failureImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.reactnativestarter:failureImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.reactnativestarter:overlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.reactnativestarter:placeholderImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.reactnativestarter:placeholderImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.reactnativestarter:pressedStateOverlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.reactnativestarter:progressBarAutoRotateInterval}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.reactnativestarter:progressBarImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.reactnativestarter:progressBarImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.reactnativestarter:retryImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.reactnativestarter:retryImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.reactnativestarter:roundAsCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.reactnativestarter:roundBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.reactnativestarter:roundBottomLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.reactnativestarter:roundBottomRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.reactnativestarter:roundBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.reactnativestarter:roundTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.reactnativestarter:roundTopLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.reactnativestarter:roundTopRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.reactnativestarter:roundTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.reactnativestarter:roundWithOverlayColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.reactnativestarter:roundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.reactnativestarter:roundingBorderColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.reactnativestarter:roundingBorderPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.reactnativestarter:roundingBorderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.reactnativestarter:viewAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.samruddhi:actualImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.samruddhi:backgroundImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.samruddhi:fadeDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.samruddhi:failureImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.samruddhi:failureImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.samruddhi:overlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.samruddhi:placeholderImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.samruddhi:placeholderImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.samruddhi:pressedStateOverlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.samruddhi:progressBarAutoRotateInterval}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.samruddhi:progressBarImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.samruddhi:progressBarImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.samruddhi:retryImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.samruddhi:retryImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.samruddhi:roundAsCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomEnd com.samruddhi:roundBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.samruddhi:roundBottomLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.samruddhi:roundBottomRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomStart com.samruddhi:roundBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopEnd com.samruddhi:roundTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.samruddhi:roundTopLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.samruddhi:roundTopRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopStart com.samruddhi:roundTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.samruddhi:roundWithOverlayColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.samruddhi:roundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.samruddhi:roundingBorderColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.samruddhi:roundingBorderPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.samruddhi:roundingBorderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.samruddhi:viewAspectRatio}</code></td><td></td></tr>
      * </table>
      * @see #GenericDraweeHierarchy_actualImageScaleType
      * @see #GenericDraweeHierarchy_backgroundImage
@@ -6989,7 +6989,7 @@ public final class R {
         0x7f02011c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actualImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actualImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7010,11 +7010,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:actualImageScaleType
+     * @attr name com.samruddhi:actualImageScaleType
      */
     public static final int GenericDraweeHierarchy_actualImageScaleType=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7022,20 +7022,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundImage
+     * @attr name com.samruddhi:backgroundImage
      */
     public static final int GenericDraweeHierarchy_backgroundImage=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fadeDuration}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fadeDuration}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:fadeDuration
+     * @attr name com.samruddhi:fadeDuration
      */
     public static final int GenericDraweeHierarchy_fadeDuration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#failureImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#failureImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7043,11 +7043,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:failureImage
+     * @attr name com.samruddhi:failureImage
      */
     public static final int GenericDraweeHierarchy_failureImage=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#failureImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#failureImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7068,11 +7068,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:failureImageScaleType
+     * @attr name com.samruddhi:failureImageScaleType
      */
     public static final int GenericDraweeHierarchy_failureImageScaleType=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#overlayImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#overlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7080,11 +7080,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:overlayImage
+     * @attr name com.samruddhi:overlayImage
      */
     public static final int GenericDraweeHierarchy_overlayImage=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#placeholderImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#placeholderImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7092,11 +7092,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:placeholderImage
+     * @attr name com.samruddhi:placeholderImage
      */
     public static final int GenericDraweeHierarchy_placeholderImage=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#placeholderImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#placeholderImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7117,11 +7117,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:placeholderImageScaleType
+     * @attr name com.samruddhi:placeholderImageScaleType
      */
     public static final int GenericDraweeHierarchy_placeholderImageScaleType=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#pressedStateOverlayImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#pressedStateOverlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7129,20 +7129,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:pressedStateOverlayImage
+     * @attr name com.samruddhi:pressedStateOverlayImage
      */
     public static final int GenericDraweeHierarchy_pressedStateOverlayImage=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarAutoRotateInterval}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarAutoRotateInterval}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:progressBarAutoRotateInterval
+     * @attr name com.samruddhi:progressBarAutoRotateInterval
      */
     public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7150,11 +7150,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:progressBarImage
+     * @attr name com.samruddhi:progressBarImage
      */
     public static final int GenericDraweeHierarchy_progressBarImage=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7175,11 +7175,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:progressBarImageScaleType
+     * @attr name com.samruddhi:progressBarImageScaleType
      */
     public static final int GenericDraweeHierarchy_progressBarImageScaleType=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#retryImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#retryImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7187,11 +7187,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:retryImage
+     * @attr name com.samruddhi:retryImage
      */
     public static final int GenericDraweeHierarchy_retryImage=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#retryImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#retryImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7212,112 +7212,112 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:retryImageScaleType
+     * @attr name com.samruddhi:retryImageScaleType
      */
     public static final int GenericDraweeHierarchy_retryImageScaleType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundAsCircle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundAsCircle}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundAsCircle
+     * @attr name com.samruddhi:roundAsCircle
      */
     public static final int GenericDraweeHierarchy_roundAsCircle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomEnd}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomEnd
+     * @attr name com.samruddhi:roundBottomEnd
      */
     public static final int GenericDraweeHierarchy_roundBottomEnd=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomLeft
+     * @attr name com.samruddhi:roundBottomLeft
      */
     public static final int GenericDraweeHierarchy_roundBottomLeft=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomRight
+     * @attr name com.samruddhi:roundBottomRight
      */
     public static final int GenericDraweeHierarchy_roundBottomRight=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomStart}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomStart
+     * @attr name com.samruddhi:roundBottomStart
      */
     public static final int GenericDraweeHierarchy_roundBottomStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopEnd}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopEnd
+     * @attr name com.samruddhi:roundTopEnd
      */
     public static final int GenericDraweeHierarchy_roundTopEnd=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopLeft
+     * @attr name com.samruddhi:roundTopLeft
      */
     public static final int GenericDraweeHierarchy_roundTopLeft=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopRight
+     * @attr name com.samruddhi:roundTopRight
      */
     public static final int GenericDraweeHierarchy_roundTopRight=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopStart}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopStart
+     * @attr name com.samruddhi:roundTopStart
      */
     public static final int GenericDraweeHierarchy_roundTopStart=22;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundWithOverlayColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundWithOverlayColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:roundWithOverlayColor
+     * @attr name com.samruddhi:roundWithOverlayColor
      */
     public static final int GenericDraweeHierarchy_roundWithOverlayColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundedCornerRadius}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7326,22 +7326,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundedCornerRadius
+     * @attr name com.samruddhi:roundedCornerRadius
      */
     public static final int GenericDraweeHierarchy_roundedCornerRadius=24;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:roundingBorderColor
+     * @attr name com.samruddhi:roundingBorderColor
      */
     public static final int GenericDraweeHierarchy_roundingBorderColor=25;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderPadding}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7350,11 +7350,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundingBorderPadding
+     * @attr name com.samruddhi:roundingBorderPadding
      */
     public static final int GenericDraweeHierarchy_roundingBorderPadding=26;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderWidth}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderWidth}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7363,16 +7363,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundingBorderWidth
+     * @attr name com.samruddhi:roundingBorderWidth
      */
     public static final int GenericDraweeHierarchy_roundingBorderWidth=27;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#viewAspectRatio}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#viewAspectRatio}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.reactnativestarter:viewAspectRatio
+     * @attr name com.samruddhi:viewAspectRatio
      */
     public static final int GenericDraweeHierarchy_viewAspectRatio=28;
     /**
@@ -7387,10 +7387,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.reactnativestarter:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.reactnativestarter:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.reactnativestarter:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.reactnativestarter:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.samruddhi:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.samruddhi:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.samruddhi:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.samruddhi:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -7482,7 +7482,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7490,11 +7490,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:divider
+     * @attr name com.samruddhi:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7503,21 +7503,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:dividerPadding
+     * @attr name com.samruddhi:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:measureWithLargestChild
+     * @attr name com.samruddhi:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7532,7 +7532,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:showDividers
+     * @attr name com.samruddhi:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -7804,16 +7804,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.reactnativestarter:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.reactnativestarter:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.reactnativestarter:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.reactnativestarter:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.reactnativestarter:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.reactnativestarter:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.reactnativestarter:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.reactnativestarter:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.reactnativestarter:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.reactnativestarter:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.samruddhi:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.samruddhi:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.samruddhi:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.samruddhi:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.samruddhi:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.samruddhi:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.samruddhi:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.samruddhi:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.samruddhi:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.samruddhi:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -7990,7 +7990,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7998,31 +7998,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actionLayout
+     * @attr name com.samruddhi:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:actionProviderClass
+     * @attr name com.samruddhi:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:actionViewClass
+     * @attr name com.samruddhi:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8039,32 +8039,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:alphabeticModifiers
+     * @attr name com.samruddhi:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:contentDescription
+     * @attr name com.samruddhi:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:iconTint
+     * @attr name com.samruddhi:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8081,11 +8081,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:iconTintMode
+     * @attr name com.samruddhi:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8102,11 +8102,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:numericModifiers
+     * @attr name com.samruddhi:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8122,17 +8122,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:showAsAction
+     * @attr name com.samruddhi:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:tooltipText
+     * @attr name com.samruddhi:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -8149,8 +8149,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.reactnativestarter:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.reactnativestarter:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.samruddhi:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.samruddhi:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -8255,17 +8255,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:preserveIconSpacing
+     * @attr name com.samruddhi:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8273,7 +8273,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:subMenuArrow
+     * @attr name com.samruddhi:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -8285,7 +8285,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.reactnativestarter:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.samruddhi:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -8322,13 +8322,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:overlapAnchor
+     * @attr name com.samruddhi:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -8338,7 +8338,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.reactnativestarter:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.samruddhi:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -8346,13 +8346,13 @@ public final class R {
         0x7f0200e8
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:state_above_anchor
+     * @attr name com.samruddhi:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -8362,8 +8362,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.reactnativestarter:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.reactnativestarter:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.samruddhi:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.samruddhi:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -8372,7 +8372,7 @@ public final class R {
         0x7f0200af, 0x7f0200b2
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8381,11 +8381,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:paddingBottomNoButtons
+     * @attr name com.samruddhi:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8394,7 +8394,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:paddingTopNoTitle
+     * @attr name com.samruddhi:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -8408,19 +8408,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.reactnativestarter:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.reactnativestarter:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.reactnativestarter:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.reactnativestarter:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.reactnativestarter:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.reactnativestarter:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.reactnativestarter:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.reactnativestarter:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.reactnativestarter:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.reactnativestarter:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.reactnativestarter:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.reactnativestarter:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.reactnativestarter:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.samruddhi:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.samruddhi:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.samruddhi:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.samruddhi:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.samruddhi:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.samruddhi:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.samruddhi:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.samruddhi:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.samruddhi:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.samruddhi:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.samruddhi:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.samruddhi:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.samruddhi:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -8558,7 +8558,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8566,11 +8566,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:closeIcon
+     * @attr name com.samruddhi:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8578,21 +8578,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:commitIcon
+     * @attr name com.samruddhi:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:defaultQueryHint
+     * @attr name com.samruddhi:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8600,21 +8600,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:goIcon
+     * @attr name com.samruddhi:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:iconifiedByDefault
+     * @attr name com.samruddhi:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8622,11 +8622,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:layout
+     * @attr name com.samruddhi:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8634,21 +8634,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:queryBackground
+     * @attr name com.samruddhi:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:queryHint
+     * @attr name com.samruddhi:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8656,11 +8656,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:searchHintIcon
+     * @attr name com.samruddhi:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8668,11 +8668,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:searchIcon
+     * @attr name com.samruddhi:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8680,11 +8680,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:submitBackground
+     * @attr name com.samruddhi:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8692,11 +8692,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:suggestionRowLayout
+     * @attr name com.samruddhi:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8704,7 +8704,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:voiceIcon
+     * @attr name com.samruddhi:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -8714,37 +8714,37 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.reactnativestarter:actualImageResource}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.reactnativestarter:actualImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.reactnativestarter:actualImageUri}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.reactnativestarter:backgroundImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.reactnativestarter:fadeDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.reactnativestarter:failureImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.reactnativestarter:failureImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.reactnativestarter:overlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.reactnativestarter:placeholderImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.reactnativestarter:placeholderImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.reactnativestarter:pressedStateOverlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.reactnativestarter:progressBarAutoRotateInterval}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.reactnativestarter:progressBarImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.reactnativestarter:progressBarImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.reactnativestarter:retryImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.reactnativestarter:retryImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.reactnativestarter:roundAsCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.reactnativestarter:roundBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.reactnativestarter:roundBottomLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.reactnativestarter:roundBottomRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.reactnativestarter:roundBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.reactnativestarter:roundTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.reactnativestarter:roundTopLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.reactnativestarter:roundTopRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.reactnativestarter:roundTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.reactnativestarter:roundWithOverlayColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.reactnativestarter:roundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.reactnativestarter:roundingBorderColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.reactnativestarter:roundingBorderPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.reactnativestarter:roundingBorderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.reactnativestarter:viewAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.samruddhi:actualImageResource}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType com.samruddhi:actualImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.samruddhi:actualImageUri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_backgroundImage com.samruddhi:backgroundImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_fadeDuration com.samruddhi:fadeDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImage com.samruddhi:failureImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType com.samruddhi:failureImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_overlayImage com.samruddhi:overlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImage com.samruddhi:placeholderImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType com.samruddhi:placeholderImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage com.samruddhi:pressedStateOverlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval com.samruddhi:progressBarAutoRotateInterval}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImage com.samruddhi:progressBarImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType com.samruddhi:progressBarImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImage com.samruddhi:retryImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType com.samruddhi:retryImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundAsCircle com.samruddhi:roundAsCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomEnd com.samruddhi:roundBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft com.samruddhi:roundBottomLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomRight com.samruddhi:roundBottomRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundBottomStart com.samruddhi:roundBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopEnd com.samruddhi:roundTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopLeft com.samruddhi:roundTopLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopRight com.samruddhi:roundTopRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundTopStart com.samruddhi:roundTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor com.samruddhi:roundWithOverlayColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius com.samruddhi:roundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor com.samruddhi:roundingBorderColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding com.samruddhi:roundingBorderPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth com.samruddhi:roundingBorderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio com.samruddhi:viewAspectRatio}</code></td><td></td></tr>
      * </table>
      * @see #SimpleDraweeView_actualImageResource
      * @see #SimpleDraweeView_actualImageScaleType
@@ -8789,7 +8789,7 @@ public final class R {
         0x7f0200d6, 0x7f0200d7, 0x7f02011c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actualImageResource}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actualImageResource}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8797,11 +8797,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:actualImageResource
+     * @attr name com.samruddhi:actualImageResource
      */
     public static final int SimpleDraweeView_actualImageResource=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actualImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actualImageScaleType}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8822,21 +8822,21 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:actualImageScaleType
+     * @attr name com.samruddhi:actualImageScaleType
      */
     public static final int SimpleDraweeView_actualImageScaleType=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#actualImageUri}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#actualImageUri}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:actualImageUri
+     * @attr name com.samruddhi:actualImageUri
      */
     public static final int SimpleDraweeView_actualImageUri=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8844,20 +8844,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundImage
+     * @attr name com.samruddhi:backgroundImage
      */
     public static final int SimpleDraweeView_backgroundImage=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fadeDuration}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fadeDuration}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:fadeDuration
+     * @attr name com.samruddhi:fadeDuration
      */
     public static final int SimpleDraweeView_fadeDuration=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#failureImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#failureImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8865,11 +8865,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:failureImage
+     * @attr name com.samruddhi:failureImage
      */
     public static final int SimpleDraweeView_failureImage=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#failureImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#failureImageScaleType}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8890,11 +8890,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:failureImageScaleType
+     * @attr name com.samruddhi:failureImageScaleType
      */
     public static final int SimpleDraweeView_failureImageScaleType=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#overlayImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#overlayImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8902,11 +8902,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:overlayImage
+     * @attr name com.samruddhi:overlayImage
      */
     public static final int SimpleDraweeView_overlayImage=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#placeholderImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#placeholderImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8914,11 +8914,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:placeholderImage
+     * @attr name com.samruddhi:placeholderImage
      */
     public static final int SimpleDraweeView_placeholderImage=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#placeholderImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#placeholderImageScaleType}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8939,11 +8939,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:placeholderImageScaleType
+     * @attr name com.samruddhi:placeholderImageScaleType
      */
     public static final int SimpleDraweeView_placeholderImageScaleType=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#pressedStateOverlayImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#pressedStateOverlayImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8951,20 +8951,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:pressedStateOverlayImage
+     * @attr name com.samruddhi:pressedStateOverlayImage
      */
     public static final int SimpleDraweeView_pressedStateOverlayImage=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarAutoRotateInterval}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarAutoRotateInterval}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.reactnativestarter:progressBarAutoRotateInterval
+     * @attr name com.samruddhi:progressBarAutoRotateInterval
      */
     public static final int SimpleDraweeView_progressBarAutoRotateInterval=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8972,11 +8972,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:progressBarImage
+     * @attr name com.samruddhi:progressBarImage
      */
     public static final int SimpleDraweeView_progressBarImage=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#progressBarImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#progressBarImageScaleType}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8997,11 +8997,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:progressBarImageScaleType
+     * @attr name com.samruddhi:progressBarImageScaleType
      */
     public static final int SimpleDraweeView_progressBarImageScaleType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#retryImage}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#retryImage}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9009,11 +9009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:retryImage
+     * @attr name com.samruddhi:retryImage
      */
     public static final int SimpleDraweeView_retryImage=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#retryImageScaleType}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#retryImageScaleType}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9034,112 +9034,112 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:retryImageScaleType
+     * @attr name com.samruddhi:retryImageScaleType
      */
     public static final int SimpleDraweeView_retryImageScaleType=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundAsCircle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundAsCircle}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundAsCircle
+     * @attr name com.samruddhi:roundAsCircle
      */
     public static final int SimpleDraweeView_roundAsCircle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomEnd}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomEnd
+     * @attr name com.samruddhi:roundBottomEnd
      */
     public static final int SimpleDraweeView_roundBottomEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomLeft}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomLeft
+     * @attr name com.samruddhi:roundBottomLeft
      */
     public static final int SimpleDraweeView_roundBottomLeft=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomRight}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomRight
+     * @attr name com.samruddhi:roundBottomRight
      */
     public static final int SimpleDraweeView_roundBottomRight=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundBottomStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundBottomStart}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundBottomStart
+     * @attr name com.samruddhi:roundBottomStart
      */
     public static final int SimpleDraweeView_roundBottomStart=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopEnd}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopEnd
+     * @attr name com.samruddhi:roundTopEnd
      */
     public static final int SimpleDraweeView_roundTopEnd=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopLeft}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopLeft
+     * @attr name com.samruddhi:roundTopLeft
      */
     public static final int SimpleDraweeView_roundTopLeft=22;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopRight}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopRight
+     * @attr name com.samruddhi:roundTopRight
      */
     public static final int SimpleDraweeView_roundTopRight=23;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundTopStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundTopStart}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:roundTopStart
+     * @attr name com.samruddhi:roundTopStart
      */
     public static final int SimpleDraweeView_roundTopStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundWithOverlayColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundWithOverlayColor}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:roundWithOverlayColor
+     * @attr name com.samruddhi:roundWithOverlayColor
      */
     public static final int SimpleDraweeView_roundWithOverlayColor=25;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundedCornerRadius}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9148,22 +9148,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundedCornerRadius
+     * @attr name com.samruddhi:roundedCornerRadius
      */
     public static final int SimpleDraweeView_roundedCornerRadius=26;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderColor}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:roundingBorderColor
+     * @attr name com.samruddhi:roundingBorderColor
      */
     public static final int SimpleDraweeView_roundingBorderColor=27;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderPadding}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9172,11 +9172,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundingBorderPadding
+     * @attr name com.samruddhi:roundingBorderPadding
      */
     public static final int SimpleDraweeView_roundingBorderPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#roundingBorderWidth}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#roundingBorderWidth}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9185,16 +9185,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:roundingBorderWidth
+     * @attr name com.samruddhi:roundingBorderWidth
      */
     public static final int SimpleDraweeView_roundingBorderWidth=29;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#viewAspectRatio}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#viewAspectRatio}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.reactnativestarter:viewAspectRatio
+     * @attr name com.samruddhi:viewAspectRatio
      */
     public static final int SimpleDraweeView_viewAspectRatio=30;
     /**
@@ -9208,7 +9208,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.reactnativestarter:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.samruddhi:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -9283,7 +9283,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9291,7 +9291,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:popupTheme
+     * @attr name com.samruddhi:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -9304,17 +9304,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.reactnativestarter:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.reactnativestarter:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.reactnativestarter:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.reactnativestarter:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.reactnativestarter:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.reactnativestarter:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.reactnativestarter:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.reactnativestarter:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.reactnativestarter:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.reactnativestarter:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.reactnativestarter:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.samruddhi:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.samruddhi:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.samruddhi:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.samruddhi:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.samruddhi:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.samruddhi:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.samruddhi:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.samruddhi:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.samruddhi:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.samruddhi:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.samruddhi:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -9370,27 +9370,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:showText
+     * @attr name com.samruddhi:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:splitTrack
+     * @attr name com.samruddhi:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9399,11 +9399,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:switchMinWidth
+     * @attr name com.samruddhi:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9412,11 +9412,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:switchPadding
+     * @attr name com.samruddhi:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9424,11 +9424,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:switchTextAppearance
+     * @attr name com.samruddhi:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9437,22 +9437,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:thumbTextPadding
+     * @attr name com.samruddhi:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:thumbTint
+     * @attr name com.samruddhi:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9469,11 +9469,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:thumbTintMode
+     * @attr name com.samruddhi:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9481,22 +9481,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:track
+     * @attr name com.samruddhi:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:trackTint
+     * @attr name com.samruddhi:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9513,7 +9513,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:trackTintMode
+     * @attr name com.samruddhi:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -9534,8 +9534,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.reactnativestarter:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.reactnativestarter:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.samruddhi:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.samruddhi:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -9701,17 +9701,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:fontFamily
+     * @attr name com.samruddhi:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9721,7 +9721,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.reactnativestarter:textAllCaps
+     * @attr name com.samruddhi:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -9733,33 +9733,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.reactnativestarter:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.reactnativestarter:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.reactnativestarter:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.reactnativestarter:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.reactnativestarter:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.reactnativestarter:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.reactnativestarter:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.reactnativestarter:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.reactnativestarter:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.reactnativestarter:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.reactnativestarter:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.reactnativestarter:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.reactnativestarter:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.reactnativestarter:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.reactnativestarter:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.reactnativestarter:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.reactnativestarter:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.reactnativestarter:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.reactnativestarter:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.reactnativestarter:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.reactnativestarter:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.reactnativestarter:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.reactnativestarter:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.reactnativestarter:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.reactnativestarter:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.reactnativestarter:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.reactnativestarter:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.samruddhi:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.samruddhi:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.samruddhi:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.samruddhi:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.samruddhi:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.samruddhi:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.samruddhi:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.samruddhi:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.samruddhi:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.samruddhi:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.samruddhi:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.samruddhi:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.samruddhi:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.samruddhi:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.samruddhi:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.samruddhi:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.samruddhi:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.samruddhi:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.samruddhi:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.samruddhi:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.samruddhi:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.samruddhi:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.samruddhi:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.samruddhi:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.samruddhi:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.samruddhi:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.samruddhi:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -9844,7 +9844,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9857,21 +9857,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:buttonGravity
+     * @attr name com.samruddhi:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:collapseContentDescription
+     * @attr name com.samruddhi:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9879,11 +9879,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:collapseIcon
+     * @attr name com.samruddhi:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9892,11 +9892,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetEnd
+     * @attr name com.samruddhi:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9905,11 +9905,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetEndWithActions
+     * @attr name com.samruddhi:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9918,11 +9918,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetLeft
+     * @attr name com.samruddhi:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9931,11 +9931,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetRight
+     * @attr name com.samruddhi:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9944,11 +9944,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetStart
+     * @attr name com.samruddhi:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9957,11 +9957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:contentInsetStartWithNavigation
+     * @attr name com.samruddhi:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9969,21 +9969,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:logo
+     * @attr name com.samruddhi:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:logoDescription
+     * @attr name com.samruddhi:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9992,21 +9992,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:maxButtonHeight
+     * @attr name com.samruddhi:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:navigationContentDescription
+     * @attr name com.samruddhi:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10014,11 +10014,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:navigationIcon
+     * @attr name com.samruddhi:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10026,21 +10026,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:popupTheme
+     * @attr name com.samruddhi:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:subtitle
+     * @attr name com.samruddhi:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10048,32 +10048,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:subtitleTextAppearance
+     * @attr name com.samruddhi:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:subtitleTextColor
+     * @attr name com.samruddhi:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.reactnativestarter:title
+     * @attr name com.samruddhi:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10082,11 +10082,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMargin
+     * @attr name com.samruddhi:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10095,11 +10095,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMarginBottom
+     * @attr name com.samruddhi:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10108,11 +10108,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMarginEnd
+     * @attr name com.samruddhi:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10121,11 +10121,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMarginStart
+     * @attr name com.samruddhi:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10134,11 +10134,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMarginTop
+     * @attr name com.samruddhi:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10147,11 +10147,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:titleMargins
+     * @attr name com.samruddhi:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10159,18 +10159,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:titleTextAppearance
+     * @attr name com.samruddhi:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:titleTextColor
+     * @attr name com.samruddhi:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -10182,9 +10182,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.reactnativestarter:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.reactnativestarter:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.reactnativestarter:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.samruddhi:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.samruddhi:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.samruddhi:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -10227,7 +10227,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10236,11 +10236,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:paddingEnd
+     * @attr name com.samruddhi:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10249,11 +10249,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.reactnativestarter:paddingStart
+     * @attr name com.samruddhi:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10261,7 +10261,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.reactnativestarter:theme
+     * @attr name com.samruddhi:theme
      */
     public static final int View_theme=4;
     /**
@@ -10272,8 +10272,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.reactnativestarter:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.reactnativestarter:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.samruddhi:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.samruddhi:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -10298,18 +10298,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.reactnativestarter:backgroundTint
+     * @attr name com.samruddhi:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.reactnativestarter.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.samruddhi.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10326,7 +10326,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.reactnativestarter:backgroundTintMode
+     * @attr name com.samruddhi:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
