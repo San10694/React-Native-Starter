@@ -5,12 +5,13 @@ import { connect } from "react-redux";
 import { getRestaurantList } from "../Redux/ListRedux";
 
 class HomeScreen extends Component {
+
   constructor(props) {
     super(props);
   }
 
   componentDidMount() {
-    this.props.getRestaurantList();
+    // this.props.getRestaurantList();
   }
   render() {
     return (
