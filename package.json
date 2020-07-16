@@ -15,7 +15,7 @@
     "redux-persist": "5.10.0",
     "redux-saga": "0.16.0",
     "axios": "0.18.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
